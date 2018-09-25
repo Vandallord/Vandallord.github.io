@@ -24,13 +24,5 @@
 <script type="text/javascript" src="web\js\main.js"></script>
 <script type="text/javascript" src="web\js\smoothscroll.min.js"></script>-->
 
-
-
-
-
-
-
-
-
 </body>
 </html>
