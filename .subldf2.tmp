@@ -82,10 +82,10 @@
                     </div>
                 </div>
             </div>
-            <div class="hv2-main-menu-bg"> 
+            <div class="hv2-main-menu-bg">
 
-                <div class="container"> 
-                    <div class="row"> 
+                <div class="container">
+                    <div class="row">
                         <div class="container">
                             <div class="row">
 
@@ -104,9 +104,9 @@
                                 <!-- Collect the nav links, forms, and other content for toggling -->
                                 <div class="collapse navbar-collapse" id="navbar-menu">
                                     <ul class="nav navbar-nav navbar-right m-top-20" data-in="fadeIn" data-out="fadeOut">
-                                        <li><a href="home.html">Home</a> </li>
+                                        <li><a href="index.html">Home</a> </li>
                                         <li><a href="#">About us</a></li>
-                                        <li><a href="pricing.html">Pricing</a></li> 
+                                        <li><a href="pricing.html">Pricing</a></li>
                                         <li><a href="blog.html">Blog</a></li>
                                         <li class="active"><a href="contact.html">Contact Us</a></li>
                                     </ul>
@@ -114,9 +114,9 @@
                             </div>
 
                         </div>
-                    </div>   
-                </div>   
-            </div>   
+                    </div>
+                </div>
+            </div>
         </nav> <!-- End off Nav -->
 
 
@@ -136,8 +136,8 @@
                                     <div class="col-md-10 col-md-offset-1">
                                         <div class="banner-text text-center m-top-20">
                                             <h1 class="text-white">Make something valuable</h1>
-                                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-                                                sed do eiusmod tempor incididunt ut labore et dolore  consequat. Duis aute irure 
+                                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                                sed do eiusmod tempor incididunt ut labore et dolore  consequat. Duis aute irure
                                                 dolor in reprehenderit in volExcepteur  </p>
                                             <a  class="btn btn-default btn-round m-top-20" href="" target="_blank">select two</a>
                                         </div>
@@ -180,7 +180,7 @@
                 </div>
             </section><!-- Contact Info end-->
 
-            
+
             <!-- Contact Form start -->
             <section class="contact p-top-50">
                 <form id="contact-form" action="http://facebook.us8.list-manage.com/subscribe/post-json?u=85f515a08b87483d03fee7755&id=dff5d2324f">
@@ -216,7 +216,7 @@
                     </div>
                 </form>
             </section><!-- Contact-form end -->
-            
+
 
             <!-- Map -->
             <section id="map"></section>
@@ -232,7 +232,7 @@
                                 <div class="weidget-item">
                                     <h4 class="text-white">Company</h4>
                                     <ul class="m-top-20">
-                                        <li><a href="home.html">Home</a></li>
+                                        <li><a href="index.html">Home</a></li>
                                         <li><a href="#">About us</a></li>
                                         <li><a href="pricing.html">Pricing</a></li>
                                         <li><a href="contact.html">Contact us</a></li>
@@ -241,7 +241,7 @@
                             </div><!-- End off col-sm-3 -->
 
                             <div class="col-md-3 sm-m-top-40">
-                                <div class="weidget-item"> 
+                                <div class="weidget-item">
                                     <h4 class="text-white">Quick Links</h4>
                                     <ul class="m-top-20">
                                         <li><a href=""> Designers</a></li>
@@ -253,7 +253,7 @@
                             </div><!-- End off col-sm-3 -->
 
                             <div class="col-md-2 sm-m-top-40">
-                                <div class="weidget-item"> 
+                                <div class="weidget-item">
                                     <h4 class="text-white">Conditions</h4>
                                     <ul class="m-top-20">
                                         <li><a href=""> Online support</a></li>
@@ -304,7 +304,7 @@
                         </div>
                     </div>
                 </div>
-            </footer><!-- End off footer Section--> 
+            </footer><!-- End off footer Section-->
 
         </div><!--End of home page style-->
 
