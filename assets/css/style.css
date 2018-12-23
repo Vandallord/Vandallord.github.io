@@ -284,7 +284,7 @@ ul{
 
 /*=========================================
 All Button
-===========================================*/ 
+===========================================*/
 
 .btn {
     border: medium none;
@@ -455,10 +455,10 @@ Extra height css
     margin-right: 20px;
 }
 .m-l-15{
-    margin-left: 15px; 
+    margin-left: 15px;
 }
 .m-l-20{
-    margin-left: 20px; 
+    margin-left: 20px;
 }
 .m-top-10 {
     margin-top: 10px;
@@ -711,9 +711,9 @@ textarea::-ms-input-placeholder{
     padding: 5px;
 }
 
-.transform_scal_rotate:hover img{ 
-    -webkit-transform: scale(1.1) rotate(4deg); 
-    transform: scale(1.1) rotate(4deg); 
+.transform_scal_rotate:hover img{
+    -webkit-transform: scale(1.1) rotate(4deg);
+    transform: scale(1.1) rotate(4deg);
 }
 
 /*heading title all area*/
@@ -764,9 +764,9 @@ textarea::-ms-input-placeholder{
     width: 50px;
     margin-top: -25px;
     margin-left: -25px;
-    -ms-transform: rotate(45deg); 
+    -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    transform: rotate(45deg); 
+    transform: rotate(45deg);
     -webkit-animation: loading-center-absolute 1.5s infinite;
     animation: loading-center-absolute 1.5s infinite;
 
@@ -803,7 +803,7 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes loading-center-absolute {
-    100% { 
+    100% {
         transform:  rotate(-45deg);
         -webkit-transform:  rotate(-45deg);
     }
@@ -816,11 +816,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_one {
-    25% { 
+    25% {
         transform: translate(0,-50px) rotate(-180deg);
         -webkit-transform: translate(0,-50px) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -832,11 +832,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_two {
-    25% { 
+    25% {
         transform: translate(50px,0) rotate(-180deg);
         -webkit-transform: translate(50px,0) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -848,11 +848,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_three {
-    25% { 
+    25% {
         transform:  translate(-50px,0) rotate(-180deg);
         -webkit-transform:  translate(-50px,0) rotate(-180deg);
-    } 
-    100% { 
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: rtranslate(0,0) rotate(-180deg);
     }
@@ -865,11 +865,11 @@ textarea::-ms-input-placeholder{
 }
 
 @keyframes object_four {
-    25% { 
-        transform: translate(0,50px) rotate(-180deg); 
-        -webkit-transform: translate(0,50px) rotate(-180deg);  
-    } 
-    100% { 
+    25% {
+        transform: translate(0,50px) rotate(-180deg);
+        -webkit-transform: translate(0,50px) rotate(-180deg);
+    }
+    100% {
         transform: translate(0,0) rotate(-180deg);
         -webkit-transform: translate(0,0) rotate(-180deg);
     }
@@ -995,11 +995,11 @@ nav.navbar.bootsnav {
 
 
 /*==================================
-home banner
+home banner250
 ===================================*/
 .home{
     background-color: #0891f9;
-    height: 700px;
+    height: 250px;
     width:100%;
     position: relative;
     overflow: hidden;
@@ -1099,7 +1099,7 @@ home banner
 }
 
 .slide img {
-    display: inline-block;   
+    display: inline-block;
 }
 
 .f-item-text {
@@ -1208,7 +1208,7 @@ transition: all 0.6s;
     overflow: hidden;
 }
 .separators .separator2{
-    top:0px;  
+    top:0px;
 }
 
 .product-slider .slick-dots {
@@ -1402,7 +1402,7 @@ transition: all 0.6s;
 .grid-item, .grid-sizer {width: 25%;}
 .grid-item {
     float: left;
-    height: 180px !important; 
+    height: 180px !important;
 }
 .grid-item--width2 { width: 50%;}
 .grid-item--height2 { height: 360px !important;}
