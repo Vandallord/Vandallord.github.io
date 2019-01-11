@@ -21,6 +21,26 @@ body {
 }
 
 
+
+/* ==========================================================================
+my css
+========================================================================== */
+.box-image {
+/*   width: 200px;
+  height: 200px;
+  background-size: 200px 200px; */
+  background-position: top left;
+  position: relative;
+}
+.link-image {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
 /*@-webkit-viewport { width: device-width; }
 @-moz-viewport { width: device-width; }
 @-ms-viewport { width: device-width; }
@@ -997,19 +1017,7 @@ nav.navbar.bootsnav {
   padding: 1px 1px;
 }
 
-.box-image {
-  width: 200px;
-  height: 200px;
-  background-size: 200px 200px;
-  background-position: top left;
-  position: relative;
-}
-.link-image {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-}
+
 
 
 
