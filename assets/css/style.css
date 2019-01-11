@@ -26,9 +26,9 @@ body {
 my css
 ========================================================================== */
 .box-image {
-  width: 10px;
-  height: 10px;
-  background-size: 200px 200px;
+  width: 30px;
+  height: 30px;
+  /*background-size: 200px 200px;*/
   background-position: top left;
   position: relative;
 }
