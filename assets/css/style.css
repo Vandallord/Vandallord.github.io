@@ -26,17 +26,17 @@ body {
 my css
 ========================================================================== */
 .box-image {
-  width: 10px;
+  /*width: 10px;
   height: 10px;
-  /*background-size: 200px 200px;
+  background-size: 200px 200px;
   background-position: top left;
   position: relative;*/
 }
 .link-image {
-  position: absolute;
+/*  position: absolute;
   top: 0;
   bottom: 0;
-  /*width: 100%;*/
+  width: 100%;*/
 }
 
 
