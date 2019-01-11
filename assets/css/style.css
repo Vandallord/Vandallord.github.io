@@ -25,15 +25,17 @@ body {
 /* ==========================================================================
 my css
 ========================================================================== */
+/* del
+
 .box-image {
   width: 200px;
   height: 200px;
     position: relative;
       background-position: top left;
-  /*
+
   background-size: 200px 200px;
   background-position: top left;
-  position: relative;*/
+  position: relative;
 }
 .link-image {
     width: 100%;
@@ -41,11 +43,11 @@ my css
     position: absolute;
     top: 0;
     bottom: 0;
-  /*position: absolute;
+  position: absolute;
   top: 0;
   bottom: 0;
-  width: 100%;*/
-}
+  width: 100%;
+}*/
 
 
 
