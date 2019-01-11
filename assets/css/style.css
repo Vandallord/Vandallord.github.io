@@ -28,6 +28,8 @@ my css
 .box-image {
   width: 200px;
   height: 200px;
+    position: relative;
+      background-position: top left;
   /*
   background-size: 200px 200px;
   background-position: top left;
@@ -36,6 +38,9 @@ my css
 .link-image {
     width: 100%;
     height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
   /*position: absolute;
   top: 0;
   bottom: 0;
